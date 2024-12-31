@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Core Python libraries
+python-telegram-bot==20.0
+SQLAlchemy==2.0.0
+PyMySQL==1.0.3
+uuid==1.30
+
+# Utility libraries
+python-dotenv==1.0.0
+loguru==0.6.0
